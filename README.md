@@ -6,7 +6,7 @@ Here is all my progress through the arduous task of learning deep learning algor
 1. [Linear Regression Model](#body-brain)
 2. [Gradient Descent](#gradient-descent)
 
-## Body-brain Weight <a name="body-brain"></a>
+## Body-brain Weight
 It explores the relationship between the weight of the body and the weight of the brain of the organism.
 
 ### Libraries
