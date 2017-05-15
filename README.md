@@ -3,7 +3,7 @@
 Here is all my progress through the arduous task of learning deep learning algorithms.
 
 # Table of Contents
-1. [Linear Regression Model](#body-brain)
+1. [Linear Regression Model](#body-brain-weight)
 2. [Gradient Descent](#gradient-descent)
 
 ## Body-brain Weight
