@@ -9,12 +9,12 @@ Here is all my progress through the arduous task of learning deep learning algor
 ## Body-brain Weight <a name="body-brain"></a>
 It explores the relationship between the weight of the body and the weight of the brain of the organism.
 
-#### Libraries
+### Libraries
 - [panda](http://pandas.pydata.org): a library in order to input, organize and manipulate data.
 - [sklearn](http://scikit-learn.org): a library with simple and efficient tools for data mining and data analysis.
 - [matplotlib](https://matplotlib.org): to plot data as we do in Matlab.
 
-#### Process
+### Process
 1. With panda we read the data and it returns a Dataframe type.
 2. We select the x_values and the y_values indexed with the two first values.
 3. With sklearn we create a linear regression model.
