@@ -23,5 +23,5 @@ It explores the relationship between the weight of the body and the weight of th
 6. We add the line of our prediction.
 7. We show our plot.
 
-## Gradient Descent <a name="gradient-descent"></a>
+## Gradient Descent
 It computes the optimized straight line that has the least amount of error.
