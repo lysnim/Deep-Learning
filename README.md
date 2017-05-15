@@ -3,8 +3,8 @@
 Here is all my progress through the arduous task of learning deep learning algorithms.
 
 # Table of Contents
-1. [Linear Regression Model](## Body-brain Weight)
-2. [Gradient Descent](## Gradient Descent)
+1. [Linear Regression Model](#Body-brain Weight)
+2. [Gradient Descent](#Gradient Descent)
 
 ## Body-brain Weight
 It explores the relationship between the weight of the body and the weight of the brain of the organism.
