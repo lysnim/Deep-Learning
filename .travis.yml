@@ -12,6 +12,6 @@ python:
   - "3.7-dev" # 3.7 development branch
   - "nightly" # currently points to 3.7-dev
 # command to install dependencies
-install: "pip install -r panda sklearn matplotlib"
+install: "pip install panda sklearn matplotlib"
 # command to run tests
 script: pytest brain-body-weight/brain-body-weight.py
