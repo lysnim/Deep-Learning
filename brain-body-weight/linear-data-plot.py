@@ -12,7 +12,7 @@ y_values = dataframe[["Y"]]
 
 body_reg = linear_model.LinearRegression()
 body_reg.fit(x_values, y_values)
-print r2_score(y_values, body_reg.predict(y_values))
+print(r2_score(y_values, body_reg.predict(y_values)))
 
 # Visualize results
 
