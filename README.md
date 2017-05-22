@@ -25,3 +25,5 @@ It explores the relationship between the weight of the body and the weight of th
 
 ## Gradient Descent
 It computes the optimized straight line that has the least amount of error.
+
+## Neural Network
