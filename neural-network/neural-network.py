@@ -17,16 +17,19 @@ class NeuralNetwork():
 
     # PUBLIC
     # S shaped curve, we pass the weighted sum of the inputs to normalise between 0 and 1
+    @classmethod
     def __sigmoid(self, x):
         return 1 / (1 + exp(-x))
 
     # The derivate/gradient of the Sigmoid function
     # Indicates how confident we are about the weights
+    @classmethod
     def __sigmoid_derivative(self, x):
         return x * (1 -x)
 
     # Train the neural network through trial and error
     # Adjusting the weight in each iteration
+    @classmethod
     def train(self, training_set_inputs, training_set_outputs, number_of_training_iterations):
         for _ in xrange(number_of_training_iterations):
             # Pass the training input through our neural network
