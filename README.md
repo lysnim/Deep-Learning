@@ -1,9 +1,9 @@
 
 # Deep-Learning
 
-[![Code Climate](https://codeclimate.com/github/codeclimate/codeclimate/badges/gpa.svg)](https://codeclimate.com/github/codeclimate/codeclimate)
-[![Test Coverage](https://codeclimate.com/github/codeclimate/codeclimate/badges/coverage.svg)](https://codeclimate.com/github/codeclimate/codeclimate/coverage)
-[![Issue Count](https://codeclimate.com/github/codeclimate/codeclimate/badges/issue_count.svg)](https://codeclimate.com/github/codeclimate/codeclimate)
+[![Code Climate](https://codeclimate.com/github/MrRobb/Deep-Learning/badges/gpa.svg)](https://codeclimate.com/github/MrRobb/Deep-Learning)
+[![Test Coverage](https://codeclimate.com/github/MrRobb/Deep-Learning/badges/coverage.svg)](https://codeclimate.com/github/MrRobb/Deep-Learning/coverage)
+[![Issue Count](https://codeclimate.com/github/MrRobb/Deep-Learning/badges/issue_count.svg)](https://codeclimate.com/github/MrRobb/Deep-Learning)
 
 Here is all my progress through the arduous task of learning deep learning algorithms.
 
