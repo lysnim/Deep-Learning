@@ -55,7 +55,7 @@ if __name__ == '__main__':
     neural_network = NeuralNetwork()
 
     # Print the synaptic weight of the neuron (initialized as random)
-    print "Random starting synaptic weights: "
+    print("Random starting synaptic weights: ")
     print neural_network.synaptic_weights
 
     # Our training set has 4 input arrays of 3 values each
