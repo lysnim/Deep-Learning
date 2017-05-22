@@ -56,7 +56,7 @@ if __name__ == '__main__':
 
     # Print the synaptic weight of the neuron (initialized as random)
     print("Random starting synaptic weights: ")
-    print neural_network.synaptic_weights
+    print(neural_network.synaptic_weights)
 
     # Our training set has 4 input arrays of 3 values each
     # and one output value for each input
@@ -68,10 +68,10 @@ if __name__ == '__main__':
     neural_network.train(training_set_inputs, training_set_outputs, 10000)
 
     # Print the synaptic weight of the neuron (after training)
-    print "New synaptic weights after training: "
-    print neural_network.synaptic_weights
+    print("New synaptic weights after training: ")
+    print(neural_network.synaptic_weights)
 
     # Test the neural network with a new situation.
-    print "Considering new situation -> ?: "
+    print("Considering new situation -> ?: ")
     newtest = array(split(int(input())))
-    print neural_network.think(newtest)
+    print(neural_network.think(newtest))
