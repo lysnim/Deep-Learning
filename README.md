@@ -1,5 +1,8 @@
 
 # Deep-Learning
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/98c4de5de55c412c83f32684b617f36c)](https://www.codacy.com/app/roberto.ariosa/Deep-Learning?utm_source=github.com&utm_medium=referral&utm_content=MrRobb/Deep-Learning&utm_campaign=badger)
+
 Here is all my progress through the arduous task of learning deep learning algorithms.
 
 # Table of Contents
