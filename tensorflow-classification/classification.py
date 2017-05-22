@@ -11,4 +11,4 @@ print(dataframe)                           # Let's have the notebook show us how
 dataframe.loc[:, ("y1")] = [1, 1, 1, 0, 0, 1, 0, 1, 1, 1]
 dataframe.loc[:, ("y2")] = dataframe["y1"] == 0
 dataframe.loc[:, ("y2")] = dataframe["y2"].astype(int)
-print dataframe
+print(dataframe)
