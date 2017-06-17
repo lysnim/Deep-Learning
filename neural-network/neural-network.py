@@ -16,7 +16,7 @@ class NeuralNetwork():
         self.synaptic_weights = 20 * random.random((3,1)) - 10
 
     # PUBLIC
-    # S shaped curve, we pass the weighted sum of the inputs to normalise between 0 and 1
+    # S shaped curve, we pass the weighted sum of the inputs to normalize between 0 and 1
     @classmethod
     def __sigmoid(self, x):
         return 1 / (1 + exp(-x))
@@ -25,7 +25,7 @@ class NeuralNetwork():
     # Indicates how confident we are about the weights
     @classmethod
     def __sigmoid_derivative(self, x):
-        return x * (1 -x)
+        return x * (1 - x)
 
     # Train the neural network through trial and error
     # Adjusting the weight in each iteration
@@ -35,7 +35,7 @@ class NeuralNetwork():
             # Pass the training input through our neural network
             output = self.think(training_set_inputs)
 
-            # Calculate the error (The difference between the real outpud and the predicted one)
+            # Calculate the error (The difference between the real output and the predicted one)
             error = training_set_outputs - output
 
             # Multiply the error by the input and again by the gradient of the Sigmoid curve.
